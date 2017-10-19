@@ -1,5 +1,3 @@
-apply plugin: 'java'
-
 task clean << {
     println '[clean]10s sleep'
     sleep(10000)
